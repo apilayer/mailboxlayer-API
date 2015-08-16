@@ -3,7 +3,6 @@
 Find below a simple way of using PHP (cURL) to verify an email address:
 
 ```php
-
 // set API Access Key
 $access_key = 'YOUR_ACCESS_KEY';
 
