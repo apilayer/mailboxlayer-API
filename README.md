@@ -1,7 +1,7 @@
 Stay up to date by following [@apilayernet](https://twitter.com/apilayernet) on Twitter.
 _________
 
-# mailboxlayer-API
+# mailboxlayer API
 
 Mailboxlayer offers a simple REST-based JSON API enabling you to thouroughly check and verify email addresses as they come into your system.
 
@@ -11,11 +11,11 @@ Combined with typo checks, did-you-mean suggestions and a numeric score reflecti
 
 ## Data Sources
 
-In order to achieve a high standard of data accuracy and response speed for every API request, the vatlayer API relies on multiple servers and a distinct "fallback & validation" mechanism, consisting of a fairly large number of different data sources (instances), which include the European Commission's databases. 
+In order to achieve a high standard of data accuracy and response speed for every API request, the mailboxlayer API relies on multiple servers and a distinct "fallback & validation" mechanism, consisting of a fairly large number of different data sources (instances), which include the European Commission's databases. 
 
 If one instance fails to deliver an accurate data response (which does not even occur in 99.9% of the cases), the next highest one is assigned with the respective request. Only this way can we provide a consistent service and API living up to our customer's expectations.
 
-[Sign up for for free](https://vatlayer.com/product) to get instant API Access.
+[Sign up for for free](https://mailboxlayer.com/product) to get instant API Access.
 
 ## Features & Integration
 
@@ -23,7 +23,7 @@ At mailboxlayer we believe that every online business should be verifying email 
 
 The main API Functionalities are:
 
-* **Syntax & Typo**:
+* **Syntax & Typo Check**:
 Thorough syntax validation, typo check and useful alternative (did you mean?) email suggestions.
 
 * **Real-time SMTP**:
@@ -48,7 +48,7 @@ Make use of a numeric score reflecting the quality and deliverability of each em
 Interactive example queries, code examples (including PHP/CURL and jQuery.ajax) and integration guides are available at [mailboxlayer.com/documentation](https://mailboxlayer.com/documentation).
 
 ## Customer Support
-Need any assistance? [Get in touch with Customer Support](mailto:support@apilayer.net?subject=[vatlayer]).
+Need any assistance? [Get in touch with Customer Support](mailto:support@apilayer.net?subject=[mailboxlayer]).
 
 ## Legal
 
