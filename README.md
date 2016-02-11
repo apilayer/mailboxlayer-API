@@ -48,7 +48,7 @@ Make use of a numeric score reflecting the quality and deliverability of each em
 Interactive example queries, code examples (including PHP/CURL and jQuery.ajax) and integration guides are available at [mailboxlayer.com/documentation](https://mailboxlayer.com/documentation).
 
 ## Customer Support
-Need any assistance? [Get in touch with Customer Support](mailto:support@apilayer.net?subject=[mailboxlayer]).
+Need any assistance? [Get in touch with Customer Support](mailto:support@apilayer.com?subject=[mailboxlayer]).
 
 ## Legal
 
