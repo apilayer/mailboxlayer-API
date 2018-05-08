@@ -19,7 +19,7 @@ If one instance fails to deliver an accurate data response (which does not even 
 
 ## Features & Integration
 
-At mailboxlayer we believe that every online business should be verifying email addresses before letting them into their database, that is why we decided to offer 1,000 monthly validation requests for free - no credit card, no charges. After all, *"2837484@mailinator.com"* may just not be your target demographic.
+At mailboxlayer we believe that every online business should be verifying email addresses before letting them into their database, that is why we decided to offer 250 monthly validation requests for free - no credit card, no charges. After all, *"2837484@mailinator.com"* may just not be your target demographic.
 
 The main API Functionalities are:
 
